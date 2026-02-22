@@ -1,11 +1,9 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a001f,100:7b00ff&height=200&section=header&text=CYBERPUNK%20DEV&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a001f,100:7b00ff&height=200&section=header&text=CatCut%20Lite&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
----
 > <b>🚀 Versión actual: 1.0</b>
----
 
 
 <p align="center">
