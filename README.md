@@ -18,6 +18,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=800&color=BB00FF&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;Saul+Layme;Android+Developer;Kotlin+%7C+Java+%7C+AIDE;Entering+Cyberpunk+Mode" />
 </p>
 
+---
 ![Android](https://img.shields.io/badge/Android-BB00FF?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-BB00FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-BB00FF?style=for-the-badge&logo=java&logoColor=white)
