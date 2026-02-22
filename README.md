@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-<img src="file_00000000b5c4720e89d3ae3d6d27a76f.png" alt="PANDA-MODS" width="900"/>
+<img src="IMG_20260221_204455.png" alt="PANDA-MODS" width="900"/>
 </p>
 
 <p align="center">
