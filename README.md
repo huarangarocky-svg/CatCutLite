@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&width=800&lines=ACCESS+GRANTED;Android+Developer;Kotlin+%7C+Java+%7C+AIDE;Building+PRO+Apps;Welcome+to+my+Cyber+World" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&width=800&lines=ACCESS+GRANTED....;HYOSIMAR+HACKS;Kotlin+%7C+Java+%7C+AIDE;Building+PRO+Apps;Welcome+to+my+Cyber+World" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=800&color=BB00FF&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;Saul+Layme;Android+Developer;Kotlin+%7C+Java+%7C+AIDE;Entering+Cyberpunk+Mode" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=800&color=BB00FF&center=true&vCenter=true&width=900&lines=SYSTEM+APKS...;PANDA+MODS...;Android+Developer;Kotlin+%7C+Java+%7C+AIDE;Entering+Cyberpunk+Mode" />
 </p>
 
 ---
