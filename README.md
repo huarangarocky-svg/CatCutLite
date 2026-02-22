@@ -1,18 +1,26 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&width=800&lines=ACCESS+GRANTED;Android+Developer;Kotlin+%7C+Java+%7C+AIDE;Building+PRO+Apps;Welcome+to+my+Cyber+World" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=800&color=BB00FF&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;Saul+Layme;Android+Developer;Kotlin+%7C+Java+%7C+AIDE;Entering+Cyberpunk+Mode" />
-</p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a001f,100:7b00ff&height=200&section=header&text=CYBERPUNK%20DEV&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 ---
+> <b>🚀 Versión actual: 1.0</b>
+---
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&width=800&lines=ACCESS+GRANTED;Android+Developer;Kotlin+%7C+Java+%7C+AIDE;Building+PRO+Apps;Welcome+to+my+Cyber+World" />
+</p>
+
+<p align="center">
+<img src="FB_IMG_1771553970047.jpg" alt="PANDA-MODS" width="900"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=800&color=BB00FF&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;Saul+Layme;Android+Developer;Kotlin+%7C+Java+%7C+AIDE;Entering+Cyberpunk+Mode" />
+</p>
+
+
 
 # 🌐 > whoami.exe
 
