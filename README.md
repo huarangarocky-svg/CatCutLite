@@ -27,12 +27,12 @@
 
 ---
 
-# 🌐 > whoami.exe
+# 🌐información.apk
 
 ```bash
-> Name: Saul Layme
+> Name: Panda Mods
 > Role: Android Developer
-> Stack: Kotlin | Java | AIDE
+> lenguajes: Kotlin | Java | AIDE
 > Focus: Music & Video Apps
 > Mode: CYBERPUNK ACTIVE
 ```
@@ -49,7 +49,7 @@
 
 ---
 
-# 📊 NEURAL STATS
+# 📊 ESTADO....
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&bg_color=0d001a&title_color=BB00FF&text_color=ffffff&icon_color=BB00FF)
 
